@@ -1,0 +1,2 @@
+# Predicting_climate_disaster_risk_in_vietnam
+AICTE Internship 25Aug-25Sept
