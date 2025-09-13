@@ -9,3 +9,7 @@ Description :: This project focuses on analyzing historical climate data from Vi
 
 Week 2_2 Sept to 6 Sept 2025
 Working on EDA and Data Preprocesing and Scaling Features of Dataset for Training the model 
+
+
+Week 3_ 8 Sept to 14 Sept 2025
+Final model evaluation and deployment of prediction .
